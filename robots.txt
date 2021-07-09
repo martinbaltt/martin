@@ -1,0 +1,2 @@
+#User-agent: goolebot
+#Disallow: /users/
